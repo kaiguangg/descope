@@ -1,2 +1,0 @@
-# descope
-descope java
